@@ -1,0 +1,28 @@
+body
+{
+    background-image: linear-gradient(aqua,#0437F2);
+}
+#title
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+}
+#links
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#links img
+{
+    height: 150px;
+    width: 150px;
+}
+#content
+{
+    text-align: justify;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 100px 100px 382px 100px;
+}
